@@ -1,7 +1,8 @@
-from django.test import  TestCase
+from django.test import TestCase
 
 from app.calc import add
 from app.calc import subtract
+
 
 class CalTests(TestCase):
 
